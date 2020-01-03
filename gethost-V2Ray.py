@@ -84,7 +84,9 @@ finally:
     f.close()
     file_object.close()
     
-    ToBase64(links_file,'Base64_'+links_file)
+    #生成指定文件名的base64文件
+    base64file_v2ray='base64_v2ray'
+    ToBase64(links_file,base64file_v2ray)
     
     #发送邮件至指定邮箱
     import smtplib
@@ -112,8 +114,8 @@ finally:
     msg.attach(part)
  
     #Base64编码后附件
-    part = MIMEApplication(open('Base64_'+links_file,'rb').read())
-    part.add_header('Content-Disposition', 'attachment', filename='Base64_'+links_file)
+    part = MIMEApplication(open(base64file_v2ray,'rb').read())
+    part.add_header('Content-Disposition', 'attachment', filename=base64file_v2ray)
     msg.attach(part)
  
     send = smtplib.SMTP("smtp.qq.com", timeout=30)#连接smtp邮件服务器,端口默认是25
