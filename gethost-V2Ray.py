@@ -1,6 +1,7 @@
 #!/usr/bin/python
 import base64
 import time
+import sys,os
 
 
 def ToBase64(file, txt):
@@ -78,14 +79,19 @@ try:
         t=t+1
 finally:
 
-    links_file = 'Url_Vmess_links_{}.txt'.format(time.strftime('%Y-%m-%d_%H-%M-%S'))
+    #links_file = 'Url_Vmess_links_{}.txt'.format(time.strftime('%Y-%m-%d_%H-%M-%S'))
+    links_file='url_v2ray.txt'
+    if os.path.exists(links_file):
+        if os.path.exists(links_file+'.bak'):
+            os.remove(links_file+'.bak')
+        os.rename(links_file,links_file+'.bak')
     f = open(links_file,'w',encoding='UTF-8', errors='ignore')
     f.write(lineStr64)
     f.close()
     file_object.close()
     
     #生成指定文件名的base64文件
-    base64file_v2ray='base64_v2ray'
+    base64file_v2ray='base64_v2ray.txt'
     ToBase64(links_file,base64file_v2ray)
     
     #发送邮件至指定邮箱
@@ -104,7 +110,7 @@ finally:
     msg["To"]      = _to
  
     #---文字部分---
-    part = MIMEText("")
+    part = MIMEText("订阅地址：https://raw.githubusercontent.com/jaove/SUB-SS-SSR-V2Ray/master/base64_v2ray.txt")
     msg.attach(part)
  
     #---附件部分---

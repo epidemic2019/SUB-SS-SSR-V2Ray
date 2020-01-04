@@ -275,12 +275,13 @@ def func_1st(configs, links):
 
     if links_result:
         #Modify by zhuwei
-        links_file = 'Url_SS_SSR_links_{}.txt'.format(time.strftime('%Y-%m-%d_%H-%M-%S'))
+        #links_file = 'Url_SS_SSR_links_{}.txt'.format(time.strftime('%Y-%m-%d_%H-%M-%S'))
+        links_file='url_ss_ssr.txt'
+        if os.path.exists(links_file):
+            if os.path.exists(links_file+'.bak'):
+                os.remove(links_file+'.bak')
+            os.rename(links_file,links_file+'.bak')
         #End of modify
-        
-        #Add by zhuwei
-        #links_file='Url_SS_SSR.txt'
-        #End of add
         
         with open(links_file, 'w', encoding='utf-8') as f:
             for i in links_result:
@@ -290,7 +291,7 @@ def func_1st(configs, links):
 
 #        ToBase64(links_file,'Base64_'+links_file)
         #生成指定文件名的base64文件
-        base64file_ss_ssr='base64_ss_ssr'
+        base64file_ss_ssr='base64_ss_ssr.txt'
         ToBase64(links_file,base64file_ss_ssr)
                
         #发送邮件至指定邮箱
@@ -309,7 +310,7 @@ def func_1st(configs, links):
         msg["To"]      = _to
  
         #---文字部分---
-        part = MIMEText("")
+        part = MIMEText("订阅地址：https://raw.githubusercontent.com/jaove/SUB-SS-SSR-V2Ray/master/base64_ss_ssr.txt")
         msg.attach(part)
  
         #---附件部分---
