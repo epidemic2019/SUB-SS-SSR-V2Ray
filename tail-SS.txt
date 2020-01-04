@@ -1,5 +1,5 @@
 	],
-	"index" : 13,
+	"index" : 137,
 	"random" : true,
 	"sysProxyMode" : 2,
 	"shareOverLan" : true,
@@ -37,9 +37,9 @@
 			"LastUpdateTime" : 1577366674
 		},
 		{
-			"URL" : "https://raw.githubusercontent.com/jaove/SUB-SS-SSR/master/README.md",
-			"Group" : "",
-			"LastUpdateTime" : 0
+			"URL" : "https://raw.githubusercontent.com/jaove/SUB-SS-SSR-V2Ray/master/base64_ss_ssr.txt",
+			"Group" : "放牧的风-订阅",
+			"LastUpdateTime" : 1578127144
 		}
 	],
 	"token" : {
