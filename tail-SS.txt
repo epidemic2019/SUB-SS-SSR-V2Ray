@@ -1,6 +1,6 @@
 	],
-	"index" : 137,
-	"random" : true,
+	"index" : 183,
+	"random" : false,
 	"sysProxyMode" : 2,
 	"shareOverLan" : true,
 	"localPort" : 1080,
@@ -23,10 +23,10 @@
 	"proxyUserAgent" : "",
 	"authUser" : "",
 	"authPass" : "",
-	"autoBan" : false,
-	"checkSwitchAutoCloseAll" : false,
+	"autoBan" : true,
+	"checkSwitchAutoCloseAll" : true,
 	"logEnable" : false,
-	"sameHostForSameTarget" : false,
+	"sameHostForSameTarget" : true,
 	"keepVisitTime" : 180,
 	"isHideTips" : false,
 	"nodeFeedAutoUpdate" : false,
@@ -34,12 +34,12 @@
 		{
 			"URL" : "https://fox-l.top/link/o4cEXaR53Wlboy2N?sub=1&extend=1",
 			"Group" : "阿狸云加速",
-			"LastUpdateTime" : 1577366674
+			"LastUpdateTime" : 1578406713
 		},
 		{
 			"URL" : "https://raw.githubusercontent.com/jaove/SUB-SS-SSR-V2Ray/master/base64_ss_ssr.txt",
 			"Group" : "放牧的风-订阅",
-			"LastUpdateTime" : 1578127144
+			"LastUpdateTime" : 1578406702
 		}
 	],
 	"token" : {
