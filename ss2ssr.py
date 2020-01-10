@@ -310,7 +310,7 @@ def func_1st(configs, links):
         msg["To"]      = _to
  
         #---文字部分---
-        part = MIMEText("订阅地址：https://raw.githubusercontent.com/jaove/SUB-SS-SSR-V2Ray/master/base64_ss_ssr.txt")
+        part = MIMEText("订阅地址：\n\nhttps://zhuwei.netlify.com/base64_ss_ssr.txt\nhttps://raw.githubusercontent.com/jaove/SUB-SS-SSR-V2Ray/master/base64_ss_ssr.txt")
         msg.attach(part)
  
         #---附件部分---

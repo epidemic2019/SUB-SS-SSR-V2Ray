@@ -110,7 +110,7 @@ finally:
     msg["To"]      = _to
  
     #---文字部分---
-    part = MIMEText("订阅地址：https://raw.githubusercontent.com/jaove/SUB-SS-SSR-V2Ray/master/base64_v2ray.txt")
+    part = MIMEText("订阅地址：\nhttps://zhuwei.netlify.com/base64_v2ray.txt\nhttps://raw.githubusercontent.com/jaove/SUB-SS-SSR-V2Ray/master/base64_v2ray.txt")
     msg.attach(part)
  
     #---附件部分---
