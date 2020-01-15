@@ -7,34 +7,32 @@
 码	162.220.51.58	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
 码	167.179.89.118	366	lncn.org 5fd	rc4-md5
 码	167.179.89.118	521	lncn.org dd9	rc4-md5
-码	185.22.152.211	366	lncn.org 66g	rc4-md5
-码	139.162.15.45	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
 码	45.32.27.8	521	lncn.org dd9	rc4-md5
+码	139.162.15.45	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
+码	185.22.152.211	366	lncn.org 66g	rc4-md5
 码	50.7.12.147	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
+码	156.234.236.111	3402	287858	aes-256-cfb
 码	45.144.2.235	366	lncn.org f3	rc4-md5
 码	211.21.214.234	21971	bTuK5IJr9hzl	aes-256-cfb
 码	192.240.99.182	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
 码	185.186.245.44	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
-码	usa.1ss.fun	17274	f55.fun-54943777	aes-256-cfb
-码	usc.1ss.fun	19607	f55.fun-54803849	aes-256-cfb
 码	46.29.166.112	366	lncn.org 66g	rc4-md5
 码	45.56.94.8	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
-码	199.223.119.92	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
 码	199.223.119.83	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
+码	199.223.119.92	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
 码	45.85.0.147	366	lncn.org 5uu	rc4-md5
 码	194.156.229.134	366	lncn.org 5uu	rc4-md5
 码	172.104.131.24	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
 码	45.32.27.8	366	lncn.org 5fd	rc4-md5
 码	172.104.131.24	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
-码	usb.1ss.fun	12835	f55.fun-24687119	aes-256-cfb
 码	69.36.182.52	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
 码	172.105.192.135	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
-码	185.186.245.44	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
 码	198.255.103.62	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
+码	185.186.245.44	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
 码	198.255.103.62	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
 码	204.45.182.34	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
-码	139.162.35.247	7878	HXVZ2TPi	aes-256-cfb
 码	45.144.242.108	366	lncn.org 5uu	rc4-md5
+码	139.162.35.247	7878	HXVZ2TPi	aes-256-cfb
 码	85.117.235.82	366	lncn.org 66g	rc4-md5
 码	172.104.79.29	18204	CFIvjRXvGtBv	aes-256-cfb	origin	plain
 码	v11.ssrsub.xyz	9000	t.me/SSRSUB	aes-256-ctr	auth_aes128_md5	tls1.2_ticket_auth
@@ -75,8 +73,8 @@
 码	v7.ssrsub.xyz	9000	t.me/SSRSUB	aes-256-ctr	auth_aes128_md5	tls1.2_ticket_auth
 码	45.144.242.112	366	lncn.org 5uu	rc4-md5	origin	plain
 码	v5.ssrsub.xyz	9000	t.me/SSRSUB	aes-256-ctr	auth_aes128_md5	tls1.2_ticket_auth
-码	172.105.192.135	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
 码	18.176.54.219	38477	OSLpzqvT6pSK	aes-256-cfb	origin	plain
+码	172.105.192.135	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
 码	167.179.89.118	521	lncn.org dd9	rc4-md5	origin	plain
 码	3.112.220.73	58916	hDjJwzNiJay0	aes-256-cfb	origin	plain
 码	ssr.ipv4.JJ-J1H115-584.hdtfxe.ngcssddns.com	584	NGC.SS	aes-256-cfb	auth_aes128_sha1	http_simple
@@ -85,8 +83,8 @@
 码	ssr.ipv4.JJ-J1H112-584.hdtfxe.ngcssddns.com	584	NGC.SS	aes-256-cfb	auth_aes128_sha1	http_simple
 码	45.59.126.34	15502	12345	rc4-md5	auth_sha1_v4	http_simple
 码	a3.ssrsub.xyz	9500	http://t.cn/EGJIyrl	aes-256-ctr	auth_aes128_md5	tls1.2_ticket_auth
-码	ssr.ipv4.JJ-P1H308-584.zhzfgg.ngcssddns.com	584	NGC.SS	aes-256-cfb	auth_aes128_sha1	http_simple
 码	194.147.35.24	366	lncn.org 66g	rc4-md5	origin	plain
+码	ssr.ipv4.JJ-P1H308-584.zhzfgg.ngcssddns.com	584	NGC.SS	aes-256-cfb	auth_aes128_sha1	http_simple
 码	209.58.188.12	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
 码	v10.ssrsub.xyz	9000	t.me/SSRSUB	aes-256-ctr	auth_aes128_md5	tls1.2_ticket_auth
 码	ssr.ipv4.JJ-P1H301-584.zhzfgg.ngcssddns.com	584	NGC.SS	aes-256-cfb	auth_aes128_sha1	http_simple
@@ -96,14 +94,13 @@
 码	172.105.219.90	44750	4MKzxGLfgqWx	aes-256-cfb	origin	plain
 码	172.104.131.24	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
 码	18.182.63.204	26643	2XjAbWKijRTq	aes-256-cfb	origin	plain
-码	172.105.192.135	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
 码	172.104.124.30	18458	u7q87W6NsvRh	aes-256-cfb	origin	plain
-码	v13.ssrsub.xyz	9000	t.me/SSRSUB	aes-256-ctr	auth_aes128_md5	tls1.2_ticket_auth
 码	185.186.245.44	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
+码	v13.ssrsub.xyz	9000	t.me/SSRSUB	aes-256-ctr	auth_aes128_md5	tls1.2_ticket_auth
 码	139.162.35.247	7878	HXVZ2TPi	aes-256-cfb	origin	plain
 码	45.79.79.37	443	9d6cceaa373bf2c8acb22e60b6a58be6	aes-256-cfb	origin	plain
-码	139.162.67.40	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
 码	91.245.227.135	12345	12345	rc4-md5	auth_sha1_v4	plain
+码	139.162.67.40	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
 码	85.117.234.223	366	lncn.org f3	rc4-md5	origin	plain
 码	47.101.60.243	14288	N75Ovi4f	rc4-md5	auth_sha1_v4	tls1.2_ticket_auth
 码	156.234.236.111	3402	287858	aes-256-cfb	origin	plain
@@ -122,15 +119,15 @@
 码	139.162.74.118	18865	ZLMtvm1j8QYQ	aes-256-cfb	origin	plain
 码	139.162.119.40	23165	c7ErnKRpRKCq	aes-256-cfb	origin	plain
 码	ssr.ipv4.JJ-J1H116-584.hdtfxe.ngcssddns.com	584	NGC.SS	aes-256-cfb	auth_aes128_sha1	http_simple
-码	13.231.105.163	45028	LfgjraMrdgKV	aes-256-cfb	origin	plain
 码	v3.ssrsub.xyz	9000	t.me/SSRSUB	aes-256-ctr	auth_aes128_md5	tls1.2_ticket_auth
+码	13.231.105.163	45028	LfgjraMrdgKV	aes-256-cfb	origin	plain
 码	ssr.ipv4.JJ-J1H111-584.hdtfxe.ngcssddns.com	584	NGC.SS	aes-256-cfb	auth_aes128_sha1	http_simple
 码	172.104.111.180	30031	AHzzOxTbUYdy	aes-256-cfb	origin	plain
 码	209.58.188.157	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
 码	172.104.91.149	53490	EeaqJfy4ynq2	aes-256-cfb	origin	plain
-码	185.22.152.211	366	lncn.org 66g	rc4-md5	origin	plain
-码	139.162.15.45	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
 码	45.32.27.8	521	lncn.org dd9	rc4-md5	origin	plain
+码	139.162.15.45	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
+码	185.22.152.211	366	lncn.org 66g	rc4-md5	origin	plain
 码	50.7.12.147	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
 码	18.179.20.87	44560	eaF2iRR0w6e8	aes-256-cfb	origin	plain
 码	211.21.214.234	21971	bTuK5IJr9hzl	aes-256-cfb	origin	plain
