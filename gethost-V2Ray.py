@@ -81,8 +81,10 @@ finally:
 
     #添加自建服务器vmess链接至订阅文件
     file_ownerurl = open('owner_url_v2ray.txt','r',encoding='UTF-8', errors='ignore')
-    line = file_ownerurl.readline()        
-    lineStr64 = lineStr64+line
+    file_ownerurl = ''
+    for line in file_ownerurl:
+        file_ownerurl = file_ownerurl+line        
+    lineStr64 = lineStr64+file_ownerurl
     #End
 
     #links_file = 'Url_Vmess_links_{}.txt'.format(time.strftime('%Y-%m-%d_%H-%M-%S'))
