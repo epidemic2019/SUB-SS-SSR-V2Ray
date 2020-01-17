@@ -79,8 +79,15 @@ try:
         t=t+1
 finally:
 
+    #添加自建服务器vmess链接至订阅文件
+    file_ownerurl = open('owner_url_v2ray.txt','r',encoding='UTF-8', errors='ignore')
+    line = file_ownerurl.readline()        
+    lineStr64 = lineStr64+line
+    #End
+
     #links_file = 'Url_Vmess_links_{}.txt'.format(time.strftime('%Y-%m-%d_%H-%M-%S'))
     links_file='url_v2ray.txt'
+    
     if os.path.exists(links_file):
         if os.path.exists(links_file+'.bak'):
             os.remove(links_file+'.bak')
@@ -89,6 +96,7 @@ finally:
     f.write(lineStr64)
     f.close()
     file_object.close()
+    file_ownerurl.close()
     
     #生成指定文件名的base64文件
     base64file_v2ray='base64_v2ray.txt'
