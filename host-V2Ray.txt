@@ -7,7 +7,6 @@
 码	v12.ssrsub.xyz	443	3b6795f6-ce13-4186-8217-4fe8b50c594d	ws	/307bc681/	tls
 码	uni.kitsunebi.fun	10025	95137857-70fa-4ac8-8f90-4e20aeb662cf	tcp		
 码	v11.ssrsub.xyz	443	25a09865-15b8-4f46-903d-bc9879e962aa	ws	/0d3c28d1/	tls
-码	auto.freev2.top	59933	9cb4c6c4-2025-4824-9419-7c26d2291a3f	tcp	undefined	
 码	woxiangshiwo.ffor.tk	443	7abd4c65-4743-4510-a455-f6a5837c87b3	ws	/233blog	tls
 码	v1.ssrsub.xyz	443	44cde75c-550b-419d-b45b-72b8397b6c4e	ws	/18c13be5/	tls
 码	45.79.226.214	443	418048af-a293-4b99-9b0c-98ca3580dd23	ws	/footers	tls
@@ -19,5 +18,6 @@
 码	v10.ssrsub.xyz	443	9aa1875c-dbf2-4744-9000-890327e0b92c	ws	/de0f56dc/	tls
 码	v2.ssrsub.xyz	443	b7b4db64-0b25-4cf1-bf46-c54fed0bf3cf	ws	/11ac9ef2/	tls
 码	v7.ssrsub.xyz	443	9ce0a73d-2b01-4386-8797-07302c5e1824	ws	/2b5e12b5/	tls
+码	auto.freev2.top	30851	91f254b9-d9b6-4089-850b-38f2270a1cd8	tcp	undefined	
 码	v8.ssrsub.xyz	443	ba71e8a9-694b-41f3-98a3-e94452221809	ws	/31bd14c5/	tls
 码	v13.ssrsub.xyz	443	dc96f319-0a35-4343-acc8-93f33e685531	ws	/cc52159f/	tls
