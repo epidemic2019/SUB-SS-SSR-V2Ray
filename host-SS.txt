@@ -1,53 +1,24 @@
-码	45.56.94.8	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
-码	139.162.67.40	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
-码	139.162.67.40	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
+码	85.117.235.175	350	lncn.org g5n	rc4
+码	46.29.163.29	350	lncn.org g5n	rc4
+码	194.124.34.188	350	lncn.org t3j	rc4
+码	139.180.206.196	350	lncn.org d6u	rc4
+码	45.136.244.204	350	lncn.org 5ft	rc4
 码	45.56.94.8	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
+码	usb.1ss.fun	13277	f55.fun-43553659	aes-256-cfb
+码	207.148.111.121	350	lncn.org d6u	rc4
+码	45.147.200.237	350	lncn.org 5ft	rc4
+码	185.22.153.9	350	lncn.org g5n	rc4
 码	172.104.83.161	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
-码	194.124.34.188	8088	lncn.org 65f	aes-128-ctr
-码	cn-4.crhnode.top	556	AAEXLIMITED20170715	aes-256-cfb	auth_aes128_md5	tls1.2_ticket_auth
-码	47.240.95.135	14789	BAfR5D	aes-256-cfb	auth_aes128_md5	tls1.2_ticket_auth
-码	40.83.114.203	537	AAEXLIMITED20170715	aes-256-cfb	auth_aes128_md5	tls1.2_ticket_auth
-码	194.124.34.188	8088	lncn.org 65f	aes-128-ctr	origin	plain
-码	52.194.214.127	27643	Y1iERr2MEncg	aes-256-cfb	origin	plain
-码	45.56.94.8	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
-码	3.112.251.246	26086	bG1OLZq2Vxct	aes-256-cfb	origin	plain
-码	13.113.55.248	65535	yahaha.us	none	auth_chain_a	http_simple
-码	45.140.170.154	20068	M^URfrqMHcGbGU2@o5FPO9BD4CPHUcge	aes-256-cfb	origin	plain
-码	152.89.210.10	6666	www.freevpnnet.com	salsa20	auth_aes128_md5	http_simple
-码	cn-4.crhnode.top	554	AAEXLIMITED20170715	aes-256-cfb	auth_aes128_md5	tls1.2_ticket_auth
-码	183.61.251.127	541	AAEXLIMITED20170715	aes-256-cfb	auth_aes128_md5	tls1.2_ticket_auth
-码	128.199.150.239	33236	PyNGwF	rc4-md5	auth_aes128_sha1	tls1.2_ticket_auth
-码	58.247.226.182	17000	Uk92CS	aes-256-cfb	auth_aes128_sha1	http_simple
-码	cn-4.crhnode.top	559	AAEXLIMITED20170715	aes-256-cfb	auth_aes128_md5	tls1.2_ticket_auth
-码	cn-4.crhnode.top	551	AAEXLIMITED20170715	aes-256-cfb	auth_aes128_md5	tls1.2_ticket_auth
-码	182.118.46.69	16002	mFeKmH	rc4-md5	auth_aes128_sha1	http_simple
-码	45.89.228.192	8888	www.freess.best	none	auth_chain_a	plain
-码	cn-4.crhnode.top	553	AAEXLIMITED20170715	aes-256-cfb	auth_aes128_md5	tls1.2_ticket_auth
-码	117.50.44.123	12000	Uk92CS	aes-256-cfb	auth_aes128_sha1	http_simple
-码	cn-4.crhnode.top	558	AAEXLIMITED20170715	aes-256-cfb	auth_aes128_md5	tls1.2_ticket_auth
-码	219.154.204.68	20511	mFeKmH	rc4-md5	auth_aes128_sha1	http_simple
-码	cn-4.crhnode.top	552	AAEXLIMITED20170715	aes-256-cfb	auth_aes128_md5	tls1.2_ticket_auth
-码	91.245.227.135	12345	12345	rc4-md5	auth_sha1_v4	plain
-码	139.162.67.40	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
-码	v18.ssrsub.xyz	9000	t.me/SSRSUB	aes-256-ctr	auth_aes128_md5	tls1.2_ticket_auth
-码	47.101.60.243	14288	N75Ovi4f	rc4-md5	auth_sha1_v4	tls1.2_ticket_auth
-码	101.132.35.6	554	AAEXLIMITED20170715	aes-256-cfb	auth_aes128_md5	tls1.2_ticket_auth
-码	183.61.251.127	540	AAEXLIMITED20170715	aes-256-cfb	auth_aes128_md5	tls1.2_ticket_auth
-码	139.162.67.40	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
-码	223.166.95.198	16011	mFeKmH	rc4-md5	auth_aes128_sha1	http_simple
-码	cn-4.crhnode.top	555	AAEXLIMITED20170715	aes-256-cfb	auth_aes128_md5	tls1.2_ticket_auth
-码	cn-4.crhnode.top	537	AAEXLIMITED20170715	aes-256-cfb	auth_aes128_md5	tls1.2_ticket_auth
-码	172.104.83.161	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
-码	125.46.40.166	553	AAEXLIMITED20170715	aes-256-cfb	auth_aes128_md5	tls1.2_ticket_auth
-码	223.166.249.74	19000	Uk92CS	aes-256-cfb	auth_aes128_sha1	http_simple
-码	58.247.226.108	20000	Uk92CS	aes-256-cfb	auth_aes128_sha1	http_simple
-码	149.129.41.28	25485	BAfR5D	aes-256-cfb	auth_aes128_md5	tls1.2_ticket_auth
-码	47.99.142.28	550	AAEXLIMITED20170715	aes-256-cfb	auth_aes128_md5	tls1.2_ticket_auth
-码	211.21.214.234	21971	bTuK5IJr9hzl	aes-256-cfb	origin	plain
-码	112.5.37.227	20072	mFeKmH	rc4-md5	auth_aes128_sha1	http_simple
-码	v17.ssrsub.xyz	9000	t.me/SSRSUB	aes-256-ctr	auth_aes128_md5	tls1.2_ticket_auth
-码	45.56.94.8	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
-码	a4.ssrsub.xyz	9500	http://t.cn/EGJIyrl	aes-256-ctr	auth_aes128_md5	tls1.2_ticket_auth
-码	67.216.211.31	10087	NlcqJy	aes-256-cfb	auth_aes128_md5	tls1.2_ticket_auth
-码	172.105.71.4	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
-码	58.247.226.182	24000	Uk92CS	aes-256-cfb	auth_aes128_sha1	http_simple
+码	45.89.230.216	350	lncn.org g5n	rc4
+码	85.117.235.175	350	lncn.org g5n	rc4
+码	46.29.163.29	350	lncn.org g5n	rc4
+码	194.124.34.188	350	lncn.org t3j	rc4
+码	139.180.206.196	350	lncn.org d6u	rc4
+码	45.136.244.204	350	lncn.org 5ft	rc4
+码	45.56.94.8	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
+码	usb.1ss.fun	13277	f55.fun-43553659	aes-256-cfb
+码	207.148.111.121	350	lncn.org d6u	rc4
+码	45.147.200.237	350	lncn.org 5ft	rc4
+码	185.22.153.9	350	lncn.org g5n	rc4
+码	172.104.83.161	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
+码	45.89.230.216	350	lncn.org g5n	rc4
