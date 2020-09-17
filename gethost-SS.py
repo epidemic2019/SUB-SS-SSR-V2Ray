@@ -68,7 +68,7 @@ try:
             lineStr=lineStr+'    }\n'
         else:
             lineStr=lineStr+'    },\n'
-        print (lineStr)
+#        print (lineStr)
         f.write(lineStr)
 finally:
 
