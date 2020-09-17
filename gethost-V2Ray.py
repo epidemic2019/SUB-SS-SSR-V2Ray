@@ -39,10 +39,12 @@ try:
         line=line.strip('\n')
         data=line.split('\t')
         
+        numofproxy = str(t+1).zfill(2)
+        
         lineStr='{\n'
         lineStr=lineStr+'  "v": "2",\n'
         if (len(data)>1):
-            lineStr=lineStr+'  "ps": "'+data[1]+'",\n'
+            lineStr=lineStr+'  "ps": V2Ray服务器-"'+numofproxy+'",\n'
         else:
             lineStr=lineStr+'  "ps": "",\n'
         if (len(data)>1):
