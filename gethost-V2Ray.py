@@ -77,7 +77,7 @@ try:
         lineStr=lineStr+'}\n'
         
         lineStr64=lineStr64+'vmess://'+str(base64.b64encode(lineStr.encode("utf-8")), "utf-8")+'\n'
-        print (lineStr)
+#        print (lineStr)
         t=t+1
 finally:
 
