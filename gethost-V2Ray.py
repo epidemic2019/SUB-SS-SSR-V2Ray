@@ -39,7 +39,7 @@ try:
         line=line.strip('\n')
         data=line.split('\t')
         
-        numofproxy = str(t+1).zfill(2)
+        numofproxy = str(t+1).zfill(3)
         
         lineStr='{\n'
         lineStr=lineStr+'  "v": "2",\n'
