@@ -16,8 +16,8 @@ f.write(lineStr)
 try: 
     for line in file_object:
 
-        numofproxy_ss = str(t_ss.zfill(3)
-        numofproxy_ssr = str(t_ssr.zfill(3)
+        numofproxy_ss = str(t_ss).zfill(3)
+        numofproxy_ssr = str(t_ssr).zfill(3)
         line=line.strip('\n')
         data=line.split('\t')
         server=data[1]
