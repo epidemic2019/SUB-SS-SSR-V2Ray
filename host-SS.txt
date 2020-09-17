@@ -67,11 +67,9 @@
 码	172.104.161.54	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
 码	45.144.242.249	6955	lncn.org k6t	rc4	origin	plain
 码	172.104.161.54	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
-码	45.8.158.33	14403	Cskw6d	rc4-md5	auth_aes128_md5	tls1.2_ticket_auth
 码	50.116.2.131	443	9d6cceaa373bf2c8acb22e60b6a58be6	aes-256-cfb	origin	plain
 码	104.237.154.204	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
 码	45.79.96.104	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
-码	46.17.46.101	14405	Cskw6d	rc4-md5	auth_aes128_md5	tls1.2_ticket_auth
 码	172.105.192.135	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
 码	91.220.203.90	6955	lncn.org k6t	rc4	origin	plain
 码	45.79.79.37	443	9d6cceaa373bf2c8acb22e60b6a58be6	aes-256-cfb	origin	plain
