@@ -65,6 +65,7 @@
 码	154.84.1.11	443	a0c5a96b-a0d9-4686-8eb8-b932051c79cd	ws	/footers	tls
 码	s253.snode.xyz	443	b4d250c4-1167-3f49-903a-e00533d963e1	ws	/panel	tls
 码	13.70.16.218	10202	32df818d-5527-45d7-ce18-d58e5e4d3a26	kcp		none
+码	auto.freev2.top	59563	b6033cb4-5867-4ae6-b4f2-ad89ace0d14c	tcp	undefined	
 码	142.4.127.139	443	418048af-a293-4b99-9b0c-98ca3580dd24	ws	/footers	tls
 码	s276.snode.xyz	443	5b4b86f8-77cc-318d-88bb-649340d706d0	ws	/panel	tls
 码	154.84.1.110	443	de86841d-02eb-4ca8-9d13-f735c5f3b178	ws	/footers	tls
