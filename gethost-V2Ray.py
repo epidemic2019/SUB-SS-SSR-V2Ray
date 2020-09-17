@@ -44,8 +44,7 @@ try:
         lineStr='{\n'
         lineStr=lineStr+'  "v": "2",\n'
         if (len(data)>1):
-#            lineStr=lineStr+'  "ps": V2Ray服务器-'+numofproxy+',\n'
-             lineStr=lineStr+'  "ps": "V2Ray服务器",\n'
+            lineStr=lineStr+'  "ps": "V2Ray服务器-'+numofproxy+'",\n'
         else:
             lineStr=lineStr+'  "ps": "",\n'
         if (len(data)>1):
