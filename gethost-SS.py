@@ -1,7 +1,8 @@
 #!/usr/bin/python
 import base64
 t=0
-t_ssr=0
+t_ss=1
+t_ssr=1
 count = len(open('host-SS.txt','r',encoding='UTF-8', errors='ignore').readlines())
 # f = open('../gui-config.json','w')
 f = open('../../ShadowsocksR-win-4.9.2/gui-config.json','w',encoding='UTF-8', errors='ignore')
@@ -15,8 +16,8 @@ f.write(lineStr)
 try: 
     for line in file_object:
 
-        numofproxy_ss = str(t+1).zfill(3)
-        numofproxy_ssr = str(t_ssr+1).zfill(3)
+        numofproxy_ss = str(t_ss.zfill(3)
+        numofproxy_ssr = str(t_ssr).zfill(3)
         line=line.strip('\n')
         data=line.split('\t')
         server=data[1]
@@ -54,10 +55,12 @@ try:
         lineStr=lineStr+'\t\t\t"remarks_base64" : "",\n'
 
         if (len(data)==5):
+            t_ss=t_ss+1
             lineStr=lineStr+'\t\t\t"group" : "放牧的风",\n'
             lineStr=lineStr+'\t\t\t"remarks" : "SS服务器-'+numofproxy_ss+'",\n'
             lineStr=lineStr+'\t\t\t"remarks_base64" : "'+str(base64.b64encode("SS服务器".encode("utf-8")), "utf-8")+'",\n'
         else:
+            t_ssr=t_ssr+1
             lineStr=lineStr+'\t\t\t"group" : "放牧的风",\n'
             lineStr=lineStr+'\t\t\t"remarks" : "SSR服务器-'+numofproxy_ssr+'",\n'
             lineStr=lineStr+'\t\t\t"remarks_base64" : "'+str(base64.b64encode("SSR服务器".encode("utf-8")), "utf-8")+'",\n'
@@ -66,7 +69,6 @@ try:
         lineStr=lineStr+'\t\t\t"udp_over_tcp" : false\n'
         
         t=t+1
-        t_ssr=t_ssr+1
         if t==count:
             lineStr=lineStr+'    }\n'
         else:
