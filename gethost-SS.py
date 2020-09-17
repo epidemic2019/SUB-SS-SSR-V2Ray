@@ -53,11 +53,11 @@ try:
 
         if (len(data)==5):
             lineStr=lineStr+'\t\t\t"group" : "放牧的风",\n'
-            lineStr=lineStr+'\t\t\t"remarks" : "SS服务器'+numofproxy+'",\n'
+            lineStr=lineStr+'\t\t\t"remarks" : "SS服务器-'+numofproxy+'",\n'
             lineStr=lineStr+'\t\t\t"remarks_base64" : "'+str(base64.b64encode("SS服务器".encode("utf-8")), "utf-8")+'",\n'
         else:
             lineStr=lineStr+'\t\t\t"group" : "放牧的风",\n'
-            lineStr=lineStr+'\t\t\t"remarks" : "SSR服务器'+numofproxy+'",\n'
+            lineStr=lineStr+'\t\t\t"remarks" : "SSR服务器-'+numofproxy+'",\n'
             lineStr=lineStr+'\t\t\t"remarks_base64" : "'+str(base64.b64encode("SSR服务器".encode("utf-8")), "utf-8")+'",\n'
          
         lineStr=lineStr+'\t\t\t"enable" : true,\n'
