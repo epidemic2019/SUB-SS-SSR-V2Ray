@@ -38,6 +38,11 @@ file_object = open('host-V2Ray.txt','r',encoding='UTF-8', errors='ignore')
 lineStr64=''
 try: 
     for line in file_object:
+        line=line.strip('\n')
+        data=line.split('\t')
+        
+        numofproxy = str(t+1).zfill(3)
+
         server_name = socket.getaddrinfo(data[1], None)
         server_ip=server_name[0][4][0]
  
@@ -45,10 +50,8 @@ try:
         country=location[0]    
         print (country)
 
-        line=line.strip('\n')
-        data=line.split('\t')
-        
-        numofproxy = str(t+1).zfill(3)
+
+
         
         lineStr='{\n'
         lineStr=lineStr+'  "v": "2",\n'
