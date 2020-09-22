@@ -48,12 +48,11 @@ try:
  
         location=q.lookup(server_ip)
         country=location[0]    
-        print (country)
        
         lineStr='{\n'
         lineStr=lineStr+'  "v": "2",\n'
         if (len(data)>1):
-            lineStr=lineStr+'  "ps": "'+country+'-V2Ray服务器-'+numofproxy+'",\n'
+            lineStr=lineStr+'  "ps": "'+country+'-V2Ray-'+numofproxy+'",\n'
         else:
             lineStr=lineStr+'  "ps": "",\n'
         if (len(data)>1):
