@@ -65,7 +65,6 @@
 码	172.105.192.135	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
 码	172.104.95.67	11202	www.freess.best	none	auth_chain_a	plain
 码	104.237.154.204	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
-码	94.102.57.163	11708	sEscPBiAD9K$&@79	aes-256-cfb	origin	http_simple
 码	139.162.38.42	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
 码	139.162.38.42	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
 码	139.162.15.45	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
@@ -76,13 +75,11 @@
 码	172.104.161.54	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
 码	91.220.203.91	9633	lncn.org 6tj	rc4	origin	plain
 码	50.116.2.131	443	9d6cceaa373bf2c8acb22e60b6a58be6	aes-256-cfb	origin	plain
-码	45.8.158.33	14403	Cskw6d	rc4-md5	auth_aes128_md5	tls1.2_ticket_auth
 码	104.237.154.204	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
 码	45.79.96.104	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
 码	45.67.53.34	9633	lncn.org jy5	rc4	origin	plain
 码	45.144.242.249	9633	lncn.org 6tj	rc4	origin	plain
 码	ssr-03.ssrsub.xyz	8889	http://t.cn/EGJIyrl	none	auth_chain_a	plain
-码	46.17.46.101	14405	Cskw6d	rc4-md5	auth_aes128_md5	tls1.2_ticket_auth
 码	172.105.192.135	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
 码	5.252.198.12	9633	lncn.org jy5	rc4	origin	plain
 码	45.79.79.37	443	9d6cceaa373bf2c8acb22e60b6a58be6	aes-256-cfb	origin	plain
