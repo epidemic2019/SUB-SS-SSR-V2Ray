@@ -85,7 +85,6 @@ try:
             lineStr=lineStr+'    }\n'
         else:
             lineStr=lineStr+'    },\n'
-        print (country)
         f.write(lineStr)
 finally:
 

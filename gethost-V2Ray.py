@@ -2,7 +2,10 @@
 import base64
 import time
 import sys,os
-
+import socket
+from qqwry import QQwry
+q = QQwry()
+q.load_file('qqwry.dat')
 
 def ToBase64(file, txt):
     with open(file, 'rb') as fileObj:
@@ -35,6 +38,12 @@ file_object = open('host-V2Ray.txt','r',encoding='UTF-8', errors='ignore')
 lineStr64=''
 try: 
     for line in file_object:
+        server_name = socket.getaddrinfo(data[1], None)
+        server_ip=server_name[0][4][0]
+ 
+        location=q.lookup(server_ip)
+        country=location[0]    
+        print (country)
 
         line=line.strip('\n')
         data=line.split('\t')
