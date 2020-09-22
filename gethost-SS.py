@@ -56,7 +56,7 @@ try:
 
         if (len(data)==5):
             t_ss=t_ss+1
-            lineStr=lineStr+'\t\t\t"group" : "放牧的风",\n'
+            lineStr=lineStr+'\t\t\t"group" : "免费服务器",\n'
             lineStr=lineStr+'\t\t\t"remarks" : "SS服务器-'+numofproxy_ss+'",\n'
             lineStr=lineStr+'\t\t\t"remarks_base64" : "'+str(base64.b64encode("SS服务器".encode("utf-8")), "utf-8")+'",\n'
         else:
