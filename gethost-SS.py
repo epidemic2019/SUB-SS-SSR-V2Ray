@@ -1,5 +1,11 @@
 #!/usr/bin/python
 import base64
+import socket
+from qqwry import QQwry
+q = QQwry()
+q.load_file('qqwry.dat')
+
+
 t=0
 t_ss=1
 t_ssr=1
@@ -24,6 +30,12 @@ try:
         server_port=data[2]
         password=data[3]
         method=data[4]
+
+        server_name = socket.getaddrinfo(server, None)
+        server_ip=server_name[0][4][0]
+ 
+        location=q.lookup(server_ip)
+        country=location[0]
         
         if (len(data)==7):
             protocol=data[5]
@@ -57,12 +69,12 @@ try:
         if (len(data)==5):
             t_ss=t_ss+1
             lineStr=lineStr+'\t\t\t"group" : "免费服务器",\n'
-            lineStr=lineStr+'\t\t\t"remarks" : "SS服务器-'+numofproxy_ss+'",\n'
+            lineStr=lineStr+'\t\t\t"remarks" : "'+country+'-SS服务器-'+numofproxy_ss+'",\n'
             lineStr=lineStr+'\t\t\t"remarks_base64" : "'+str(base64.b64encode("SS服务器".encode("utf-8")), "utf-8")+'",\n'
         else:
             t_ssr=t_ssr+1
             lineStr=lineStr+'\t\t\t"group" : "放牧的风",\n'
-            lineStr=lineStr+'\t\t\t"remarks" : "SSR服务器-'+numofproxy_ssr+'",\n'
+            lineStr=lineStr+'\t\t\t"remarks" : "'+country+'-SSR服务器-'+numofproxy_ssr+'",\n'
             lineStr=lineStr+'\t\t\t"remarks_base64" : "'+str(base64.b64encode("SSR服务器".encode("utf-8")), "utf-8")+'",\n'
          
         lineStr=lineStr+'\t\t\t"enable" : true,\n'
@@ -73,7 +85,7 @@ try:
             lineStr=lineStr+'    }\n'
         else:
             lineStr=lineStr+'    },\n'
-#        print (lineStr)
+        print (country)
         f.write(lineStr)
 finally:
 
