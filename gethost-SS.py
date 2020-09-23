@@ -73,7 +73,7 @@ try:
             lineStr=lineStr+'\t\t\t"remarks_base64" : "'+str(base64.b64encode("SS".encode("utf-8")), "utf-8")+'",\n'
         else:
             t_ssr=t_ssr+1
-            lineStr=lineStr+'\t\t\t"group" : "放牧的风",\n'
+            lineStr=lineStr+'\t\t\t"group" : "免费服务器",\n'
             lineStr=lineStr+'\t\t\t"remarks" : "'+country+'-SSR-'+numofproxy_ssr+'",\n'
             lineStr=lineStr+'\t\t\t"remarks_base64" : "'+str(base64.b64encode("SSR".encode("utf-8")), "utf-8")+'",\n'
          
