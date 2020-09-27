@@ -1,4 +1,5 @@
 码	162.253.71.211	35938	FeQQ8muhWnKXHeCQ3D8Zjyeq	aes-256-gcm
+码	usb.1ss.fun	16936	f55.fun-55877168	aes-256-gcm
 码	172.83.40.149	35938	FeQQ8muhWnKXHeCQ3D8Zjyeq	aes-256-gcm
 码	45.33.104.162	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
 码	45.79.90.66	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
@@ -11,21 +12,17 @@
 码	69.30.201.82	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
 码	172.104.99.210	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
 码	192.240.99.182	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
+码	a345891346.gyteng.com	61077	ssmgr2264459080	aes-256-cfb
 码	89.187.161.4	34007	Ant36ph4AX8fHx59fUTLxMqq	aes-256-gcm
-码	usb.1ss.fun	11652	f55.fun-41534468	aes-256-gcm
-码	usc.1ss.fun	12741	f55.fun-09661612	aes-256-gcm
 码	104.200.131.170	35938	FeQQ8muhWnKXHeCQ3D8Zjyeq	aes-256-gcm
 码	172.104.161.54	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
-码	172.105.215.232	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
 码	172.104.50.102	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
-码	usf.1ss.fun	16570	f55.fun-81252059	aes-256-gcm
 码	45.79.96.104	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
 码	172.104.161.54	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
-码	45.43.19.76	34651	fQrrhJUGWCGRfgvJgPDDX5sN	aes-256-gcm
 码	172.104.99.210	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
+码	45.43.19.76	34651	fQrrhJUGWCGRfgvJgPDDX5sN	aes-256-gcm
 码	104.237.154.204	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
 码	2.58.242.43	38033	xpQwyV4W5FdA6NMANJJx73US	aes-256-gcm
-码	use.1ss.fun	11055	f55.fun-81625852	aes-256-gcm
 码	84.17.57.68	34007	Ant36ph4AX8fHx59fUTLxMqq	aes-256-gcm
 码	89.187.178.94	34583	hbWeaNJfjeP6GkT7jp6CSSx8	aes-256-gcm
 码	45.79.96.104	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
@@ -34,7 +31,7 @@
 码	212.102.42.199	34007	Ant36ph4AX8fHx59fUTLxMqq	aes-256-gcm
 码	172.104.50.102	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
 码	45.33.104.162	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
-码	172.105.215.232	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
+码	tuitanggu.space	10000	tuitanggu.space	aes-256-gcm
 码	172.105.192.135	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
 码	84.17.35.93	36133	xPNTeRxDB3u2ASfGmRj5V7GV	aes-256-gcm
 码	45.87.213.87	34007	Ant36ph4AX8fHx59fUTLxMqq	aes-256-gcm
@@ -42,44 +39,48 @@
 码	139.162.15.45	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
 码	ssr-02.ssrsub.xyz	8889	http://t.cn/EGJIyrl	none	auth_chain_a	plain
 码	45.33.104.162	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
+码	45.151.175.127	80	jik198863	aes-256-cfb	origin	plain
+码	162.220.51.58	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
 码	ssr-05.ssrsub.xyz	8889	http://t.cn/EGJIyrl	none	auth_chain_a	plain
+码	50.7.12.147	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
+码	192.240.123.26	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
+码	47.242.12.238	2386	mxd007.ml	aes-256-cfb	origin	plain
 码	172.104.99.210	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
-码	91.220.203.91	3726	lncn.org 7gr	rc4	origin	plain
-码	172.105.215.232	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
+码	69.36.182.52	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
 码	172.104.50.102	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
 码	45.79.96.104	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
-码	45.67.53.34	3726	lncn.org k66	rc4	origin	plain
 码	172.104.99.210	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
-码	91.220.203.83	3726	lncn.org 7gr	rc4	origin	plain
 码	45.56.94.40	443	9d6cceaa373bf2c8acb22e60b6a58be6	aes-256-cfb	origin	plain
 码	192.240.99.182	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
 码	172.104.50.102	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
 码	194.156.120.102	8886	www.freess.best	none	auth_chain_a	plain
 码	45.33.104.162	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
-码	172.105.215.232	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
-码	185.172.113.220	3726	lncn.org k66	rc4	origin	plain
 码	45.79.90.66	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
 码	139.162.15.45	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
-码	ssr-01.ssrsub.xyz	8889	http://t.cn/EGJIyrl	none	auth_chain_a	plain
 码	45.79.90.66	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
 码	172.105.192.135	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
 码	104.237.154.204	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
 码	94.102.57.163	11708	sEscPBiAD9K$&@79	aes-256-cfb	origin	http_simple
-码	139.162.38.42	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
 码	139.162.38.42	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
+码	139.162.38.42	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
 码	139.162.15.45	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
+码	50.7.12.147	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
 码	69.30.201.82	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
 码	192.240.99.182	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
-码	91.220.203.90	3726	lncn.org 7gr	rc4	origin	plain
-码	45.144.242.249	3726	lncn.org 7gr	rc4	origin	plain
+码	8.210.162.58	2897	mxd007.ml	aes-256-cfb	origin	plain
 码	172.104.161.54	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
+码	47.245.30.243	2899	mxd007.ml	aes-256-cfb	origin	plain
 码	172.104.161.54	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
-码	50.116.2.131	443	9d6cceaa373bf2c8acb22e60b6a58be6	aes-256-cfb	origin	plain
 码	45.8.158.33	14403	Cskw6d	rc4-md5	auth_aes128_md5	tls1.2_ticket_auth
+码	50.116.2.131	443	9d6cceaa373bf2c8acb22e60b6a58be6	aes-256-cfb	origin	plain
 码	104.237.154.204	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
 码	45.79.96.104	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
-码	ssr-03.ssrsub.xyz	8889	http://t.cn/EGJIyrl	none	auth_chain_a	plain
+码	69.36.182.52	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
 码	46.17.46.101	14405	Cskw6d	rc4-md5	auth_aes128_md5	tls1.2_ticket_auth
+码	ssr-03.ssrsub.xyz	8889	http://t.cn/EGJIyrl	none	auth_chain_a	plain
+码	162.220.51.58	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
 码	172.105.192.135	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
 码	45.79.79.37	443	9d6cceaa373bf2c8acb22e60b6a58be6	aes-256-cfb	origin	plain
+码	192.240.123.26	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
 码	45.33.88.190	443	9d6cceaa373bf2c8acb22e60b6a58be6	aes-256-cfb	origin	plain
+码	ssr-04.ssrsub.xyz	8889	http://t.cn/EGJIyrl	none	auth_chain_a	plain
