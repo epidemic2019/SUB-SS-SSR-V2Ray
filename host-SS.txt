@@ -14,10 +14,6 @@
 码	139.162.15.45	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
 码	37.120.151.14	810	G!yBwPWH3Vao	chacha20-ietf-poly1305
 码	uk-gla.wbnet.cf	31070	3MZ6UwCpMYHKfjVZA8z5VBRa	aes-256-gcm
-<<<<<<< HEAD
-=======
-码	47.242.12.238	2386	mxd007.ml	aes-256-cfb
->>>>>>> 07943a881d4463277d155e15b9655dd33d30d453
 码	69.30.201.82	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
 码	47.242.12.238	2386	mxd007.ml	aes-256-cfb
 码	172.104.99.210	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
@@ -31,21 +27,14 @@
 码	45.87.213.23	34762	yxGY7A5MczQYg6UqSFx9u78V	aes-256-gcm
 码	172.104.161.54	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
 码	45.79.96.104	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
-<<<<<<< HEAD
 码	usc.1ss.fun	13376	f55.fun-34385360	aes-256-gcm
-=======
->>>>>>> 07943a881d4463277d155e15b9655dd33d30d453
 码	82.102.28.123	34762	yxGY7A5MczQYg6UqSFx9u78V	aes-256-gcm
 码	172.104.99.210	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
 码	45.43.19.76	34651	fQrrhJUGWCGRfgvJgPDDX5sN	aes-256-gcm
 码	104.237.154.204	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
 码	ch-zur.wbnet.cf	31070	3MZ6UwCpMYHKfjVZA8z5VBRa	aes-256-gcm
 码	84.17.57.68	34007	Ant36ph4AX8fHx59fUTLxMqq	aes-256-gcm
-<<<<<<< HEAD
 码	usb.1ss.fun	16373	f55.fun-66278848	aes-256-gcm
-=======
-码	usc.1ss.fun	14261	f55.fun-53360009	aes-256-gcm
->>>>>>> 07943a881d4463277d155e15b9655dd33d30d453
 码	89.187.178.94	34583	hbWeaNJfjeP6GkT7jp6CSSx8	aes-256-gcm
 码	45.79.96.104	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
 码	45.79.111.214	443	9d6cceaa373bf2c8acb22e60b6a58be6	aes-256-cfb
@@ -61,10 +50,6 @@
 码	84.17.35.93	36133	xPNTeRxDB3u2ASfGmRj5V7GV	aes-256-gcm
 码	139.162.15.45	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
 码	172.104.127.208	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
-<<<<<<< HEAD
-=======
-码	usb.1ss.fun	16308	f55.fun-03164982	aes-256-gcm
->>>>>>> 07943a881d4463277d155e15b9655dd33d30d453
 码	185.44.76.186	34762	yxGY7A5MczQYg6UqSFx9u78V	aes-256-gcm
 码	rs-beg.wbnet.cf	31070	3MZ6UwCpMYHKfjVZA8z5VBRa	aes-256-gcm
 码	217.146.82.83	34762	yxGY7A5MczQYg6UqSFx9u78V	aes-256-gcm
@@ -108,9 +93,5 @@
 码	162.220.51.58	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
 码	172.105.192.135	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
 码	45.79.79.37	443	9d6cceaa373bf2c8acb22e60b6a58be6	aes-256-cfb	origin	plain
-<<<<<<< HEAD
-=======
-码	45.33.88.190	443	9d6cceaa373bf2c8acb22e60b6a58be6	aes-256-cfb	origin	plain
->>>>>>> 07943a881d4463277d155e15b9655dd33d30d453
 码	192.240.123.26	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
 码	ssr-04.ssrsub.xyz	8889	http://t.cn/EGJIyrl	none	auth_chain_a	plain
