@@ -5,6 +5,7 @@ python gethost-SS.py
 python ss2ssr.py -j ..\..\ShadowsocksR-win-4.9.2\gui-config.json
 python gethost-V2Ray.py
 python mergefile.py
+python gethost-jj.py
 
 git add .
 git commit -m "Daily Update !"
