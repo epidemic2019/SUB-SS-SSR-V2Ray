@@ -1,9 +1,9 @@
 git pull
 
-#./gethost-SS.py
-#./ss2ssr.py -j ..\..\ShadowsocksR-win-4.9.2\gui-config.json
-#./gethost-V2Ray.py
-#./mergefile.py
+./gethost-SS.py
+./ss2ssr.py -j ..\..\ShadowsocksR-win-4.9.2\gui-config.json
+./gethost-V2Ray.py
+./mergefile.py
 ./gethost-jj.py
 
 git add .
