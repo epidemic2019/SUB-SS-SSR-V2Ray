@@ -1,4 +1,5 @@
-#!/usr/bin/python
+#! /usr/bin/env python3
+
 __author__ = 'JZ'
 __webpage__ = 'https://github.com/Justsoos'
 
