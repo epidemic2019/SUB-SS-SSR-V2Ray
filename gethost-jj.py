@@ -3,8 +3,8 @@ import requests
 import base64
 import chardet
 
-url = 'https://jj-rss-01.best/link/CR0fY9iH5GntsUxi?sub=1'
-#url = 'https://jj-rss-01.best/link_diy/PeHDxttH7wt3vDKe?t=1'
+#url = 'https://jj-rss-01.best/link/CR0fY9iH5GntsUxi?sub=1'
+url = 'https://jj-rss-01.best/link_diy/PeHDxttH7wt3vDKe?t=1'
 
 
 
