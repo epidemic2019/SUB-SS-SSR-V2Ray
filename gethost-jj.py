@@ -14,6 +14,6 @@ if chardet.detect(base64.b64decode(r.content))['encoding']=='ascii':
            with open('base64_jj.txt', 'wb') as f:
                f.write(r.content)
                f.close
-           print('\n订阅更新完成！')
+           print('\n几鸡订阅更新完成！')
 else:
-    print('\n订阅地址不可用或尝试关闭代理后更新！')
+    print('\n几鸡订阅地址不可用或尝试关闭代理后更新！')
