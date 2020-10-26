@@ -9,7 +9,7 @@ url = 'https://jj-rss-01.best/link_diy/PeHDxttH7wt3vDKe?t=1'
 
 
 r = requests.get(url, allow_redirects=True)  # to get content after redirection
-
+print(chardet.detect(base64.b64decode(r.content)))
 if chardet.detect(base64.b64decode(r.content))['encoding']=='ascii':
     str_line=base64.b64decode(r.content).decode().split('\n')
     keys=['ss://','ssr://','vess://']
