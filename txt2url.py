@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/python
 import base64
 
 f_url = open('Url_SS_SSR.txt','w',encoding='UTF-8', errors='ignore')

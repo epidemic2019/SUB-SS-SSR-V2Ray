@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/python
 import base64
 import socket
 from qqwry import QQwry
