@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/python
 import requests
 import base64
 import chardet

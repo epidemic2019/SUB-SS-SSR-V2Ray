@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/python
 import base64
 import time
 import sys,os
