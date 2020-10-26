@@ -58,8 +58,10 @@
 码	51.89.21.82	808	G!yBwPWH3Vao	chacha20-ietf-poly1305
 码	37.120.221.3	31572	n8w4StnbVD9dmXYn4Ajt87EA	aes-256-gcm
 码	185.152.64.151	31572	n8w4StnbVD9dmXYn4Ajt87EA	aes-256-gcm
+码	185.108.105.18	34762	yxGY7A5MczQYg6UqSFx9u78V	aes-256-gcm
 码	172.104.50.102	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
 码	192.240.123.26	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
+码	195.47.194.42	34762	yxGY7A5MczQYg6UqSFx9u78V	aes-256-gcm
 码	198.147.22.211	34762	yxGY7A5MczQYg6UqSFx9u78V	aes-256-gcm
 码	66.115.154.133	31572	n8w4StnbVD9dmXYn4Ajt87EA	aes-256-gcm
 码	5.187.49.187	34762	yxGY7A5MczQYg6UqSFx9u78V	aes-256-gcm
@@ -130,7 +132,6 @@
 码	192.240.123.26	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
 码	162.220.51.58	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
 码	51.195.62.218	808	G!yBwPWH3Vao	chacha20-ietf-poly1305
-码	87.239.255.119	31572	n8w4StnbVD9dmXYn4Ajt87EA	aes-256-gcm
 码	103.120.66.214	34762	yxGY7A5MczQYg6UqSFx9u78V	aes-256-gcm
 码	84.17.43.178	31572	n8w4StnbVD9dmXYn4Ajt87EA	aes-256-gcm
 码	185.158.135.38	31572	n8w4StnbVD9dmXYn4Ajt87EA	aes-256-gcm
@@ -180,9 +181,9 @@
 码	185.99.3.205	34762	yxGY7A5MczQYg6UqSFx9u78V	aes-256-gcm
 码	137.59.52.109	31572	n8w4StnbVD9dmXYn4Ajt87EA	aes-256-gcm
 码	103.73.189.221	34762	yxGY7A5MczQYg6UqSFx9u78V	aes-256-gcm
+码	us-tpa.wbnet.cf	31070	3MZ6UwCpMYHKfjVZA8z5VBRa	aes-256-gcm
 码	66.115.177.156	31572	n8w4StnbVD9dmXYn4Ajt87EA	aes-256-gcm
 码	185.153.151.100	34762	yxGY7A5MczQYg6UqSFx9u78V	aes-256-gcm
-码	us-tpa.wbnet.cf	31070	3MZ6UwCpMYHKfjVZA8z5VBRa	aes-256-gcm
 码	165.231.163.19	31572	n8w4StnbVD9dmXYn4Ajt87EA	aes-256-gcm
 码	84.247.50.29	31572	n8w4StnbVD9dmXYn4Ajt87EA	aes-256-gcm
 码	62.171.151.180	31572	n8w4StnbVD9dmXYn4Ajt87EA	aes-256-gcm
@@ -198,8 +199,8 @@
 码	137.59.52.109	34762	yxGY7A5MczQYg6UqSFx9u78V	aes-256-gcm
 码	104.200.131.170	35938	FeQQ8muhWnKXHeCQ3D8Zjyeq	aes-256-gcm
 码	84.247.49.19	34762	yxGY7A5MczQYg6UqSFx9u78V	aes-256-gcm
-码	84.247.50.29	34762	yxGY7A5MczQYg6UqSFx9u78V	aes-256-gcm
 码	69.30.201.82	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb
+码	84.247.50.29	34762	yxGY7A5MczQYg6UqSFx9u78V	aes-256-gcm
 码	2.58.242.43	38033	xpQwyV4W5FdA6NMANJJx73US	aes-256-gcm
 码	84.17.43.178	34762	yxGY7A5MczQYg6UqSFx9u78V	aes-256-gcm
 码	154.16.169.3	31572	n8w4StnbVD9dmXYn4Ajt87EA	aes-256-gcm
@@ -219,7 +220,6 @@
 码	192.240.123.26	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
 码	45.56.94.40	443	9d6cceaa373bf2c8acb22e60b6a58be6	aes-256-cfb	origin	plain
 码	50.7.12.147	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
-码	ssr-01.ssrsub.one	8889	http://t.cn/EGJIyrl	none	auth_chain_a	plain
 码	46.17.46.101	14405	Cskw6d	rc4-md5	auth_aes128_md5	tls1.2_ticket_auth
 码	45.79.96.104	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
 码	50.116.2.131	443	9d6cceaa373bf2c8acb22e60b6a58be6	aes-256-cfb	origin	plain
@@ -246,10 +246,8 @@
 码	139.162.15.45	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
 码	69.30.201.82	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
 码	45.8.158.33	14403	Cskw6d	rc4-md5	auth_aes128_md5	tls1.2_ticket_auth
-码	94.102.57.163	11708	sEscPBiAD9K$&@79	aes-256-cfb	origin	http_simple
 码	47.245.30.243	2899	mxd007.ml	aes-256-cfb	origin	plain
 码	172.104.127.208	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
-码	ssr-03.ssrsub.one	8889	http://t.cn/EGJIyrl	none	auth_chain_a	plain
 码	172.104.161.54	8097	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
 码	69.36.182.52	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
 码	104.237.154.204	8099	eIW0Dnk69454e6nSwuspv9DmS201tQ0D	aes-256-cfb	origin	plain
