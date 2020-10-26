@@ -7,7 +7,6 @@ import chardet
 #url = 'https://jj-rss-01.best/link_diy/PeHDxttH7wt3vDKe?t=1'
 url = 'https://jj-rss-01.best/link/b20Dbb0Wr708bRkU'
 
-
 r = requests.get(url, allow_redirects=True)  # to get content after redirection
 #print(chardet.detect(r.content))
 #if chardet.detect(base64.b64decode(r.content))['encoding']=='ascii':
