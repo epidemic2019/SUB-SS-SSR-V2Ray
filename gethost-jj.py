@@ -12,7 +12,8 @@ r = requests.get(url, allow_redirects=True)  # to get content after redirection
 print(chardet.detect(r.content))
 #if chardet.detect(base64.b64decode(r.content))['encoding']=='ascii':
 if chardet.detect(r.content)['encoding']=='ascii':
-    str_line=base64.b64decode(r.content).decode().split('\n')
+#    str_line=base64.b64decode(r.content).decode().split('\n')
+    str_line=base64.b64decode(r.content).split('\n')
     keys=['ss://','ssr://','vess://']
     for value in keys:
         if str_line[0].find(value)>=0:
