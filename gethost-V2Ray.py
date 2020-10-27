@@ -42,7 +42,6 @@ try:
         data=line.split('\t')
         
         numofproxy = str(t+1).zfill(3)
-        print(data[1])
         server_name = socket.getaddrinfo(data[1], None)
         server_ip=server_name[0][4][0]
  
