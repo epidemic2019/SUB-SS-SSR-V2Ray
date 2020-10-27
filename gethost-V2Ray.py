@@ -147,3 +147,4 @@ finally:
     send.login(_user, _pwd)#登陆服务器
     send.sendmail(_user, _to, msg.as_string())#发送邮件
     send.close()
+    print('/n免费V2Ray节点订阅更新完成！/n')
