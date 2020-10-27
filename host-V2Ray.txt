@@ -1,6 +1,5 @@
 码	51.89.122.175	443	ca2fb96a-4d01-4418-84bf-de66de70c8ab	ws	/footers	tls
 码	107.148.199.235	443	a9749fe7-2f49-4a9a-84a0-a441368ac378	ws	/footers	tls
-码	any-br.liyun.edu.pl	40723	a9757901-5a09-3156-adaf-47359b50323d	tcp		
 码	142.4.112.58	443	31bcb6b0-0a9a-4cfc-82d5-4947fbb68c8f	ws	/footers	tls
 码	142.4.100.194	443	fb5c511f-fbd3-48d1-befc-ee79142c050d	ws	/footers	tls
 码	56.HKG.ASIA.BIGAIRPORT.NET	80	7631fa94-13a2-4db2-8201-364f59acfc3f	ws		
@@ -20,10 +19,12 @@
 码	v2-03.ssrsub.one	443	d0cfd824-8cac-180e-6f78-d4ac2cda6a25	ws		tls
 码	h4.coding996.com	443	e8f9f061-c481-4c4a-8e7a-68cd062c1bb9	ws	/v2ray	tls
 码	www.kernels.bid	443	59e76e6f-106f-148f-80d8-a33bda3bd532	ws	undefined	tls
+码	76.223.57.161	40203	a8497551-3407-3c9e-a126-7834101b5f6a	ws	/honda	
 码	154.84.1.219	443	44e08632-8dbf-4b70-a893-1b31ead60ade	ws	/footers	tls
 码	v2-14.ssrsub.one	443	d0cfd824-8cac-180e-6f78-d4ac2cda6a25	ws		tls
 码	60.HKG.ASIA.BIGAIRPORT.NET	80	7631fa94-13a2-4db2-8201-364f59acfc3f	ws		
 码	v2-02.ssrsub.one	443	d0cfd824-8cac-180e-6f78-d4ac2cda6a25	ws		tls
+码	ah1.funyunyou.com	10003	82530289-f766-4274-89a5-8d45183c545c	ws	/	
 码	chinahumanr.tk	443	54fde82e-1279-11eb-ae4d-56000305f7e6	ws	/neVuw2Yg/	tls
 码	51.89.98.83	443	ca2fb96a-4d01-4418-84bf-de66de70c8ab	ws	/footers	tls
 码	154.84.1.142	443	7aeba42d-2e90-422b-a345-c1bdc0362c69	ws	/footers	tls
@@ -31,24 +32,22 @@
 码	v2-01.ssrsub.one	443	d0cfd824-8cac-180e-6f78-d4ac2cda6a25	ws		tls
 码	jp-1.bp.liyun.edu.pl	64710	a9757901-5a09-3156-adaf-47359b50323d	tcp		
 码	154.84.1.15	443	651ccd49-f4cc-4da4-983e-ed7ba7ee8bcb	ws	/footers	tls
-码	bp6.liyun.edu.pl	40443	a9757901-5a09-3156-adaf-47359b50323d	tcp		
 码	198.2.222.149	443	a2d4504e-e90a-4ace-a26d-ec57c2d894a5	ws	/footers	tls
 码	104.233.240.249	443	16282caa-f501-45e9-a50e-e8d14f63296b	ws	/footers	tls
 码	154.84.1.41	443	3a869a5b-5bf0-4276-a1d0-d840c0664bea	ws	/footers	tls
 码	154.84.1.162	443	e1b90914-fe82-47e5-b4fc-1454776d8014	ws	/footers	tls
 码	142.4.110.143	443	8395659e-ecf4-46b4-ab2b-15843afa3b50	ws	/footers	tls
-码	94.23.174.134	443	29b4257d-d82f-4bba-8964-0c657bb645d1	ws	/footers	tls
 码	154.84.1.210	443	0101f9da-93ea-4543-ade5-afebfa34aa60	ws	/footers	tls
 码	kr-1.bp.liyun.edu.pl	64710	a9757901-5a09-3156-adaf-47359b50323d	tcp		
 码	172.104.105.143	443	21102246-caba-3f49-9a68-49f7476d68f0	ws	v2ray	tls
 码	154.84.1.103	443	ee595b2d-ffc2-4a83-bf74-09c121ffa239	ws	/footers	tls
 码	154.84.1.234	443	38059d25-42f8-49af-a234-e3b880256014	ws	/footers	tls
-码	bp5.liyun.edu.pl	10441	a9757901-5a09-3156-adaf-47359b50323d	tcp		
 码	71.HKG.ASIA.BIGAIRPORT.NET	80	7631fa94-13a2-4db2-8201-364f59acfc3f	ws		
 码	142.4.108.229	443	47d03581-c5c9-4764-bbd6-d4e3733b2f7a	ws	/footers	tls
 码	173.82.150.26	443	bca67cda-c298-4343-8ca5-803ce1bee90b	ws	/footers	tls
 码	v2-04.ssrsub.one	443	d0cfd824-8cac-180e-6f78-d4ac2cda6a25	ws		tls
 码	23.224.82.171	443	5a7aff44-494d-46c4-9313-6378e2f71a13	ws	/footers	tls
+码	99.83.236.128	40202	a8497551-3407-3c9e-a126-7834101b5f6a	ws	/v2ray	
 码	v2-12.ssrsub.one	443	d0cfd824-8cac-180e-6f78-d4ac2cda6a25	ws		tls
 码	142.4.112.57	443	31bcb6b0-0a9a-4cfc-82d5-4947fbb68c8f	ws	/footers	tls
 码	154.84.1.159	443	0af5e8af-8fcb-4db3-8794-8148cb50a772	ws	/footers	tls
@@ -68,10 +67,10 @@
 码	154.84.1.80	443	81e548a6-5203-4230-8c99-34a26f14e779	ws	/footers	tls
 码	142.4.110.137	443	8395659e-ecf4-46b4-ab2b-15843afa3b50	ws	/footers	tls
 码	23.225.57.202	443	e2266c08-96aa-4ccb-b918-163db05abffa	ws	/footers	tls
-码	jpdg2.xnjkskdkdsop.tk	80	f7944958-d14e-44ca-8d83-5e8704bb1a9d	ws	/v1	
 码	jmnt.speed17.club	58124	f7944958-d14e-44ca-8d83-5e8704bb1a9d	ws	/v1	
 码	gz-yd-yongshen-01.cdn-jcss.me	80	0e608704-82ba-3186-afcf-5aedde279bee	ws	/vvv	
 码	31.HKG.ASIA.BIGAIRPORT.NET	80	7631fa94-13a2-4db2-8201-364f59acfc3f	ws		
+码	auto.freev2.top	11037	da429e52-53ee-4d50-903d-e6d9055f7b7b	tcp	undefined	
 码	74.HKG.ASIA.BIGAIRPORT.NET	80	7631fa94-13a2-4db2-8201-364f59acfc3f	ws		
 码	142.0.129.203	443	b1392b21-6230-4fa5-8445-96b3ccda1efc	ws	/footers	tls
 码	51.89.7.206	443	87f16117-30c6-4581-bfad-cd28769ba45d	ws	/footers	tls
@@ -88,7 +87,6 @@
 码	77.HKG.ASIA.BIGAIRPORT.NET	80	7631fa94-13a2-4db2-8201-364f59acfc3f	ws		
 码	jp-2.bp.liyun.edu.pl	61413	a9757901-5a09-3156-adaf-47359b50323d	tcp		
 码	23.225.57.205	443	e2266c08-96aa-4ccb-b918-163db05abffa	ws	/footers	tls
-码	milkgogo.ga	443	e26b10ee-1290-11eb-8a27-5600030605ba	ws	/O7eQbomF/	tls
 码	154.84.1.133	443	38059d25-42f8-49af-a234-e3b880256014	ws	/footers	tls
 码	16.HKG.ASIA.BIGAIRPORT.NET	80	7631fa94-13a2-4db2-8201-364f59acfc3f	ws		
 码	192.74.228.81	443	bf5ba263-7a16-4c1c-b49a-d14e434374f3	ws	/footers	tls
@@ -129,7 +127,7 @@
 码	34.HKG.ASIA.BIGAIRPORT.NET	80	7631fa94-13a2-4db2-8201-364f59acfc3f	ws		
 码	12.HKG.ASIA.BIGAIRPORT.NET	80	7631fa94-13a2-4db2-8201-364f59acfc3f	ws		
 码	jp-6.azure.vip5.v2ray.backend.ikuuu.pro	666	0303ab78-20be-3639-9cb4-bb01635b5546	ws	/hls/cctv5phd.m3u8	
-码	a6135a958c66358ac.awsglobalaccelerator.com	11350	e000c40c-0c4b-11eb-860c-0a9c783508da	ws	/zbqrx4Cf/	
+码	13.248.179.113	40204	a8497551-3407-3c9e-a126-7834101b5f6a	ws	/v2ray	
 码	154.84.1.139	443	72201ac4-2fcc-4609-a7a8-8ac9e5334d38	ws	/footers	tls
 码	51.HKG.ASIA.BIGAIRPORT.NET	80	7631fa94-13a2-4db2-8201-364f59acfc3f	ws		
 码	taipei-001.liyun.edu.pl	64710	a9757901-5a09-3156-adaf-47359b50323d	tcp		
@@ -148,11 +146,11 @@
 码	www.kernels.bid	80	b5d0b7ab-02d8-b804-97a2-c49def5b3f8d	ws	undefined	none
 码	142.4.108.232	443	95ccdad7-0be4-4d76-a5bd-84aa2701ca08	ws	/footers	tls
 码	v2-06.ssrsub.one	443	d0cfd824-8cac-180e-6f78-d4ac2cda6a25	ws		tls
-码	auto.freev2.top	49696	5a82965a-6e4e-42e5-abf9-9ba7136305e4	tcp	undefined	
 码	107.148.199.234	443	a9749fe7-2f49-4a9a-84a0-a441368ac378	ws	/footers	tls
 码	154.84.1.81	443	5c9f4ee0-499e-4524-98b6-2e195630f813	ws	/footers	tls
 码	154.84.1.164	443	ff658ff4-eb4c-4c42-9511-350d26d955e7	ws	/footers	tls
 码	154.84.1.212	443	72a475f9-6a5c-4acd-8cd2-12609e946a97	ws	/footers	tls
 码	twhi2.xnjkskdkdsop.tk	11002	f7944958-d14e-44ca-8d83-5e8704bb1a9d	ws	/v1	
 码	198.2.195.113	443	a2d4504e-e90a-4ace-a26d-ec57c2d894a5	ws	/footers	tls
+码	75.2.18.94	40201	a8497551-3407-3c9e-a126-7834101b5f6a	ws	/v2ray	
 码	78.HKG.ASIA.BIGAIRPORT.NET	80	7631fa94-13a2-4db2-8201-364f59acfc3f	ws		
