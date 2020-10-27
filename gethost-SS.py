@@ -96,4 +96,4 @@ finally:
     file_object.close()
     f.close()
     f2.close()
-    print('/n免费SS-SSR节点订阅更新完成！/n')
+    print('\n免费SS-SSR节点订阅更新完成！\n')
