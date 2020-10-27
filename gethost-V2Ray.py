@@ -43,7 +43,7 @@ try:
         
         numofproxy = str(t+1).zfill(3)
 
-        server_name = socket.getaddrinfo(data[1], None)
+        server_name = socket.getaddrinfo(data[1].decode(), None)
         server_ip=server_name[0][4][0]
  
         location=q.lookup(server_ip)
