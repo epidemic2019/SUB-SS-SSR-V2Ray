@@ -113,38 +113,4 @@ finally:
     base64file_v2ray='base64_v2ray.txt'
     ToBase64(links_file,base64file_v2ray)
     
-    #发送邮件至指定邮箱
-    import smtplib
-    from email.mime.multipart import MIMEMultipart
-    from email.mime.text import MIMEText
-    from email.mime.application import MIMEApplication
-    _user = "3158953@qq.com"
-    _pwd  = "ggohiqrvnrakbjgh"
-    _to   = "3158953@qq.com"
- 
-    #如名字所示Multipart就是分多个部分
-    msg = MIMEMultipart()
-    msg["Subject"] = "服务器订阅文件-V2Ray"
-    msg["From"]    = _user
-    msg["To"]      = _to
- 
-    #---文字部分---
-    part = MIMEText("订阅地址：\nhttps://zhuwei.netlify.com/base64_v2ray.txt\nhttps://raw.githubusercontent.com/jaove/SUB-SS-SSR-V2Ray/master/base64_v2ray.txt")
-    msg.attach(part)
- 
-    #---附件部分---
-    #链接文件附件
-    part = MIMEApplication(open(links_file,'rb').read())
-    part.add_header('Content-Disposition', 'attachment', filename=links_file)
-    msg.attach(part)
- 
-    #Base64编码后附件
-    part = MIMEApplication(open(base64file_v2ray,'rb').read())
-    part.add_header('Content-Disposition', 'attachment', filename=base64file_v2ray)
-    msg.attach(part)
- 
-    send = smtplib.SMTP("smtp.qq.com", timeout=30)#连接smtp邮件服务器,端口默认是25
-    send.login(_user, _pwd)#登陆服务器
-    send.sendmail(_user, _to, msg.as_string())#发送邮件
-    send.close()
     print('\n免费V2Ray节点订阅更新完成！\n')
