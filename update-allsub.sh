@@ -5,6 +5,7 @@ git pull
 ./gethost-V2Ray.py
 ./mergefile.py
 ./gethost-jj.py
+./sendmail.py
 
 git add .
 git commit -m "Daily Update !"
