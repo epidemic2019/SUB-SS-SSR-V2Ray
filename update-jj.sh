@@ -4,6 +4,7 @@ git pull
 
 ./gethost-jj.py
 ./sendmail.py
+
 git add .
 git commit -m "Daily Update !"
 git push
