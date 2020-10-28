@@ -8,8 +8,8 @@
 码	142.4.108.81	443	ac570aac-8979-43a4-ac6a-106c2037c5f8	ws	/footers	tls
 码	v2-11.ssrsub.one	443	d0cfd824-8cac-180e-6f78-d4ac2cda6a25	ws		tls
 码	154.84.1.137	443	01d207e9-c633-4164-a3ce-a5d1061865d7	ws	/footers	tls
+码	L1-aws-hk-06.baipiao.de	80	cfee2f03-f9f9-38ca-80da-164f4d7267f7	ws	/	
 码	17.HKG.ASIA.BIGAIRPORT.NET	80	7631fa94-13a2-4db2-8201-364f59acfc3f	ws		
-码	a155e0b6a055bf068.awsglobalaccelerator.com	39728	e8cb7c3f-4b56-4aa5-b965-6242965213d8	ws	/dwn	
 码	solvang.cf	443	2719bc88-093e-11eb-9e31-560003011821	ws	/5tRMadT8/	tls
 码	198.2.200.115	443	1b5cad17-cbae-4b52-8369-87f902835a7f	ws	/footers	tls
 码	kr-2.bp.liyun.edu.pl	61413	a9757901-5a09-3156-adaf-47359b50323d	tcp		
@@ -40,6 +40,7 @@
 码	154.84.1.210	443	0101f9da-93ea-4543-ade5-afebfa34aa60	ws	/footers	tls
 码	kr-1.bp.liyun.edu.pl	64710	a9757901-5a09-3156-adaf-47359b50323d	tcp		
 码	172.104.105.143	443	21102246-caba-3f49-9a68-49f7476d68f0	ws	v2ray	tls
+码	40.83.118.82	11355	efd58668-1355-11eb-ab71-00e002790bf5	ws	/azSpJx8m/	
 码	154.84.1.103	443	ee595b2d-ffc2-4a83-bf74-09c121ffa239	ws	/footers	tls
 码	154.84.1.234	443	38059d25-42f8-49af-a234-e3b880256014	ws	/footers	tls
 码	71.HKG.ASIA.BIGAIRPORT.NET	80	7631fa94-13a2-4db2-8201-364f59acfc3f	ws		
@@ -50,6 +51,7 @@
 码	99.83.236.128	40202	a8497551-3407-3c9e-a126-7834101b5f6a	ws	/v2ray	
 码	v2-12.ssrsub.one	443	d0cfd824-8cac-180e-6f78-d4ac2cda6a25	ws		tls
 码	142.4.112.57	443	31bcb6b0-0a9a-4cfc-82d5-4947fbb68c8f	ws	/footers	tls
+码	L1-aws-hk-07.baipiao.de	80	cfee2f03-f9f9-38ca-80da-164f4d7267f7	ws	/	
 码	154.84.1.159	443	0af5e8af-8fcb-4db3-8794-8148cb50a772	ws	/footers	tls
 码	51.158.150.84	49031	3f09cac8-53ab-4a6b-ba31-09b85910c8f3	ws	/	
 码	39.HKG.ASIA.BIGAIRPORT.NET	80	7631fa94-13a2-4db2-8201-364f59acfc3f	ws		
@@ -66,11 +68,10 @@
 码	51.89.21.57	443	49e62934-7c38-42bb-b7a4-de5107a58509	ws	/footers	tls
 码	154.84.1.80	443	81e548a6-5203-4230-8c99-34a26f14e779	ws	/footers	tls
 码	142.4.110.137	443	8395659e-ecf4-46b4-ab2b-15843afa3b50	ws	/footers	tls
+码	L1-aws-hk-10.baipiao.de	80	cfee2f03-f9f9-38ca-80da-164f4d7267f7	ws	/	
 码	23.225.57.202	443	e2266c08-96aa-4ccb-b918-163db05abffa	ws	/footers	tls
-码	jmnt.speed17.club	58124	f7944958-d14e-44ca-8d83-5e8704bb1a9d	ws	/v1	
 码	gz-yd-yongshen-01.cdn-jcss.me	80	0e608704-82ba-3186-afcf-5aedde279bee	ws	/vvv	
 码	31.HKG.ASIA.BIGAIRPORT.NET	80	7631fa94-13a2-4db2-8201-364f59acfc3f	ws		
-码	auto.freev2.top	11037	da429e52-53ee-4d50-903d-e6d9055f7b7b	tcp	undefined	
 码	74.HKG.ASIA.BIGAIRPORT.NET	80	7631fa94-13a2-4db2-8201-364f59acfc3f	ws		
 码	142.0.129.203	443	b1392b21-6230-4fa5-8445-96b3ccda1efc	ws	/footers	tls
 码	51.89.7.206	443	87f16117-30c6-4581-bfad-cd28769ba45d	ws	/footers	tls
@@ -84,6 +85,8 @@
 码	45.58.145.196	443	07f413fb-297d-48e2-be17-138d5b25e18c	ws	/footers	tls
 码	45.66.134.134	80	f7944958-d14e-44ca-8d83-5e8704bb1a9d	ws	/v1	
 码	51.89.125.56	443	0a899b7d-de24-4133-a78d-8bd7498eb3c3	ws	/footers	tls
+码	L1-aws-hk-09.baipiao.de	80	cfee2f03-f9f9-38ca-80da-164f4d7267f7	ws	/	
+码	L1-aws-hk-04.baipiao.de	80	cfee2f03-f9f9-38ca-80da-164f4d7267f7	ws	/	
 码	77.HKG.ASIA.BIGAIRPORT.NET	80	7631fa94-13a2-4db2-8201-364f59acfc3f	ws		
 码	jp-2.bp.liyun.edu.pl	61413	a9757901-5a09-3156-adaf-47359b50323d	tcp		
 码	23.225.57.205	443	e2266c08-96aa-4ccb-b918-163db05abffa	ws	/footers	tls
@@ -123,8 +126,8 @@
 码	v2us01.isxa.top	443	093ca010-11cf-477b-809b-86d234792689	ws	/ray	tls
 码	sgp.liyun.edu.pl	61413	a9757901-5a09-3156-adaf-47359b50323d	tcp		
 码	v2-09.ssrsub.one	443	d0cfd824-8cac-180e-6f78-d4ac2cda6a25	ws		tls
+码	L1-aws-hk-02.baipiao.de	80	cfee2f03-f9f9-38ca-80da-164f4d7267f7	ws	/	
 码	76.HKG.ASIA.BIGAIRPORT.NET	80	7631fa94-13a2-4db2-8201-364f59acfc3f	ws		
-码	34.HKG.ASIA.BIGAIRPORT.NET	80	7631fa94-13a2-4db2-8201-364f59acfc3f	ws		
 码	12.HKG.ASIA.BIGAIRPORT.NET	80	7631fa94-13a2-4db2-8201-364f59acfc3f	ws		
 码	jp-6.azure.vip5.v2ray.backend.ikuuu.pro	666	0303ab78-20be-3639-9cb4-bb01635b5546	ws	/hls/cctv5phd.m3u8	
 码	13.248.179.113	40204	a8497551-3407-3c9e-a126-7834101b5f6a	ws	/v2ray	
@@ -132,6 +135,7 @@
 码	51.HKG.ASIA.BIGAIRPORT.NET	80	7631fa94-13a2-4db2-8201-364f59acfc3f	ws		
 码	taipei-001.liyun.edu.pl	64710	a9757901-5a09-3156-adaf-47359b50323d	tcp		
 码	72.HKG.ASIA.BIGAIRPORT.NET	80	7631fa94-13a2-4db2-8201-364f59acfc3f	ws		
+码	52.194.248.249	13848	e3e3150b-ce47-489c-83f9-52a12d952aa5	ws	/dwn	none
 码	154.84.1.30	443	b2dc1153-c64b-48ea-af9f-16039048d999	ws	/footers	tls
 码	199.180.102.200	443	ab3589d3-061a-4e87-9717-dc6900d1caf9	ws	/footers	tls
 码	154.84.1.194	443	b8c0a334-e5f3-4cb0-931c-6b4dfa39fad3	ws	/footers	tls
@@ -142,8 +146,11 @@
 码	154.84.1.211	443	b8c0a334-e5f3-4cb0-931c-6b4dfa39fad3	ws	/footers	tls
 码	v2us02.isxa.top	443	a660c1f9-3bc4-4682-8a20-b99bfa1dec73	ws	/ray	tls
 码	80.HKG.ASIA.BIGAIRPORT.NET	80	7631fa94-13a2-4db2-8201-364f59acfc3f	ws		
+码	auto.freev2.top	16888	f6829940-e704-405a-aa0d-12ccabbbaded	tcp	undefined	
+码	L1-aws-hk-08.baipiao.de	80	cfee2f03-f9f9-38ca-80da-164f4d7267f7	ws	/	
 码	172.247.199.243	443	418048af-a293-4b99-9b0c-98ca3580dd24	ws	/footers	tls
 码	www.kernels.bid	80	b5d0b7ab-02d8-b804-97a2-c49def5b3f8d	ws	undefined	none
+码	52.230.39.223	8087	dd4c1c1d-ff08-31f6-bfc6-bd0a3696d787	ws	/index	
 码	142.4.108.232	443	95ccdad7-0be4-4d76-a5bd-84aa2701ca08	ws	/footers	tls
 码	v2-06.ssrsub.one	443	d0cfd824-8cac-180e-6f78-d4ac2cda6a25	ws		tls
 码	107.148.199.234	443	a9749fe7-2f49-4a9a-84a0-a441368ac378	ws	/footers	tls
